@@ -1,4 +1,4 @@
-# Football Data Analysisi Project
+# Football Data Analysis Project
 
 This project consists of analyzing some data of the English Premier League (EPL).
 
